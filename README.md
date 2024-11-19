@@ -2,7 +2,7 @@
   <h3> I'm currently working on IT and Cybersecurity projects <h3>
 <h2>Projects:</h2>
 
-  - [Active Directory Home Lab]([https://github.com/BBITProjects/URL](https://github.com/BBITProjects/ActiveDirectoryHomeLab))
+  - [Active Directory Home Lab](https://github.com/BBITProjects/ActiveDirectoryHomeLab)
 
   - [Creating a Honeynet](https://github.com/BBITProjects/URL)
 
