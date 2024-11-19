@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/BBITProjects/ActiveDirectoryHomeLab)
 
-  - [Creating a Honeynet](https://github.com/BBITProjects/URL)
+  - [Creating a Honeynet](https://github.com/BBITProjects/Creating-a-honeypot-using-Azure-Sentinel)
 
 
 
