@@ -2,8 +2,13 @@
   <h3> I'm currently working on IT and Cybersecurity projects <h3>
 <h2>Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/BBITProjects/ActiveDirectoryHomeLab)
+- <b>Active Directory Home Lab</b>
+  - [Creating AD DS in Windows Server 2022](https://github.com/BBITProjects/ActiveDirectoryHomeLab)
 
+
+
+
+- <b>Creating a Honeynet</b>
   - [Creating a Honeynet](https://github.com/BBITProjects/Creating-a-honeypot-using-Azure-Sentinel)
 
 
