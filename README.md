@@ -4,6 +4,7 @@
 
 - <b>Active Directory Home Lab</b>
   - [Creating AD DS in Windows Server 2022](https://github.com/BBITProjects/ActiveDirectoryHomeLab)
+  - [Creating a Client to Join the Domain](https://github.com/BBITProjects/ActiveDirectory-Client-Lab)
 
 
 
