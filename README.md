@@ -9,8 +9,8 @@
 
 
 
-- <b>Creating a Honeynet</b>
-  - [Creating a Honeynet](https://github.com/BBITProjects/Creating-a-honeypot-using-Azure-Sentinel)
+- <b>Creating a Honeypot Lab</b>
+  - [Microsoft Azure Honeypot](https://github.com/BBITProjects/Creating-a-honeypot-using-Azure-Sentinel)
 
 
 
